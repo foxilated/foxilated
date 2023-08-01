@@ -1,6 +1,6 @@
 ### Hello.
 
-I'm **Khalid**, a Software Engineer from Iraq.
+I'm **Khaled**, I infuse software with a living, dynamic presence.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
